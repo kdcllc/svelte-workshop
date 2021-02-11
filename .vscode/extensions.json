@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "dbaeumer.vscode-eslint",
+        "EditorConfig.EditorConfig",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode.vscode-node-azure-pack",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens"
+    ]
+}
