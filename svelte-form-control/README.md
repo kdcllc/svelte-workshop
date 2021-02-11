@@ -2,9 +2,13 @@
 
 [Live Demo](svelte-form-control.surge.sh)
 
+- https://material-ui.com/
+- https://sveltematerialui.com/
+- https://kamyarlajani.medium.com/svelte-form-validation-using-yup-7d4cd5985849
+- https://github.com/KamyarLajani/svelte-yup
 ## Requirements
 
-- NodeJs
+- NodeJshttps://github.com/KamyarLajani/svelte-yup
 - [Rollup](https://rollupjs.org):
 
 ## Run the app
